@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/outfit": "^5.0.13",
+    "@fontsource/sora": "^5.0.18",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "gsap": "^3.12.5",
     "react": "^18.2.0",

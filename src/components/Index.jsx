@@ -12,6 +12,7 @@ import img8 from '../assets/motionarteffect-img8.png'
 import img6 from '../assets/motionarteffect-img6.png'
 import img7 from '../assets/motionarteffect-img7.png'
 import img9 from '../assets/motionarteffect-img9.png'
+import "@fontsource/sora"; 
 
 const Index = () => {
   return (
@@ -46,9 +47,9 @@ const Index = () => {
         </div>
         <div className='col-span-2 p-3'>
             <div className='mb-4 mr-3'>
-            <div className='text text-5xl leading-[55px] md:text-6xl md:leading-[60px] lg:text-7xl lg:leading-[85px] text-[#eee5ff]'>Attract Your Visitors Attention With Colorful <h1 className='text-5xl leading-[55px] md:text-6xl md:leading-[60px] lg:text-7xl text custom-color pb-3 lg:leading-[75px]'>Motion Art Effect</h1></div>
+            <div className='text font-semibold text-5xl leading-[55px] md:text-6xl md:leading-[60px] lg:text-[60px] lg:leading-[85px] text-[#eee5ff] text-center sm:text-left'>Attract Your Visitors Attention With Colorful <h1 className='text-5xl leading-[55px] font-semibold md:text-6xl md:leading-[60px] lg:text-[60px] text custom-color pb-3 lg:leading-[85px] text-center sm:text-left'>Motion Art Effect</h1></div>
             </div>
-            <p className='text-[#eee5ffbd] lg:text-lg lg:p-3'>Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website. </p>
+            <p className='text-[#eee5ffbd] lg:text-base lg:p-3 text-center sm:text-left'>Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website. </p>
         </div>
     </section>
 
