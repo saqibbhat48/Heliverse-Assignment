@@ -38,6 +38,11 @@ const Index = () => {
         </div>
     </section>
 
+    <section className='border-2
+     fixed right-0 rotate-90 p-1 md:hidden' style={{pointerEvents: 'all'}}>
+        <p>Scroll me</p>
+    </section>
+
     <section className='grid grid-cols-1 md:grid-cols-4 py-20 max-w-7xl mx-auto'>
         <div className='col-span-1 grid grid-cols-1 place-items-center md:place-items-start md:grid-cols-2 p-3'>
             <div className='col-span-1'>
